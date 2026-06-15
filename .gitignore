@@ -1,0 +1,25 @@
+# Local environment and secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+private/
+_private/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build/cache artifacts
+node_modules/
+__pycache__/
+.pytest_cache/
+dist/
+build/
+coverage/
+

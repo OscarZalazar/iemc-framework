@@ -1,0 +1,31 @@
+{
+  "id": "synthetic-example-001",
+  "primary_hypothesis": "ironic frustration",
+  "confidence_label": "medium",
+  "supporting_signals": [
+    {
+      "modality": "text",
+      "observation": "Positive literal phrase appears after a negative event."
+    },
+    {
+      "modality": "voice",
+      "observation": "Slow pace and low pitch reduce likelihood of literal enthusiasm."
+    },
+    {
+      "modality": "visual",
+      "observation": "Raised eyebrows and lowered posture support an ironic or resigned reading."
+    },
+    {
+      "modality": "narrative",
+      "observation": "The line follows an unexpected problem before a deadline."
+    }
+  ],
+  "cultural_context": "The phrasing is compatible with a regional pattern of ironic complaint.",
+  "alternative_hypotheses": [
+    "resigned humor",
+    "mild annoyance",
+    "team-bonding joke"
+  ],
+  "uncertainty_notes": "This is a synthetic public example. No private data, proprietary scoring, or production model output is included."
+}
+

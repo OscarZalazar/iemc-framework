@@ -1,0 +1,28 @@
+{
+  "id": "synthetic-example-001",
+  "language": "es-AR",
+  "source_type": "short_video",
+  "transcript": "Buenisimo, justo lo que faltaba.",
+  "voice_observations": {
+    "pitch": "low",
+    "pace": "slow",
+    "pause_before_phrase_ms": 800,
+    "laughter": "brief_exhale"
+  },
+  "visual_observations": {
+    "facial_expression": "raised_eyebrows",
+    "gaze": "toward_camera",
+    "posture": "shoulders_down",
+    "scene_context": "workspace with visible unresolved task"
+  },
+  "narrative_context": {
+    "setup": "A technical issue appears before a deadline.",
+    "turn": "The speaker reacts after the issue becomes visible.",
+    "audience": "small team chat"
+  },
+  "cultural_context": {
+    "region": "Latin America",
+    "notes": "Synthetic example of ironic phrasing; not a real user sample."
+  }
+}
+
